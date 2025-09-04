@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85508422437",
+    "project_id": "krabycrabapp",
+    "storage_bucket": "krabycrabapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85508422437:android:f80214186a8bc0d424f8cc",
+        "android_client_info": {
+          "package_name": "com.nexovainfo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuxK6_SPyCKj6CBN2JC_26spCdSsaE_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
